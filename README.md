@@ -2,8 +2,8 @@
 
 This project was submitted to the CODE EDU winter hacks 2024
 
-### Table of Contents
-2. <a href="#PS">Problem Statement</a>
+
+Problem Statement
 
 ### <a name="PS">2. Problem statement</a>
 To solve the UN 17 sustainability challenge 
