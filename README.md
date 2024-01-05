@@ -1,4 +1,4 @@
-# Response
+# Response App and Website 
 
 This project was submitted to the CODE EDU winter hacks 2024
 
@@ -19,9 +19,9 @@ we have attached the pdf file document of the better understanding of our projec
 <br>(4) Providing First aid/primary steps to be taken/provided to patients, in case of emergencies/disasters.
 
 
-Hrishi Keasan N.P (Team Leader) App Developer
-Sakthivel V       App developer
-Sarrvesh N        Web Developer
-Poorani Ayswaria  Web Developer
-Mavin Sandeep     App developer
+<br>Hrishi Keasan N.P (Team Leader) App Developer
+<br>Sakthivel V       App developer
+<br>Sarrvesh N        Web Developer
+<br>Poorani Ayswaria  Web Developer
+<br>Mavin Sandeep     App developer
 
