@@ -1,6 +1,5 @@
 # Response App and Website 
 
-This project was submitted to the CODE EDU winter hacks 2024
 
 
 Problem Statement
